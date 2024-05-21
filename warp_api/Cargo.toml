@@ -1,0 +1,10 @@
+[package]
+name = "warp_api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+warp = "0.3.6"
+parking_lot = "0.12.1"
+serde = { version = "1.0.201", features = ["derive"] }
+tokio = { version = "1.36.0", features = ["full"] }
