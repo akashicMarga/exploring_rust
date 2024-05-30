@@ -1,0 +1,16 @@
+{
+    "keepSettings": {
+        "type": 1,
+        "amount": 30
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": ".log",
+    "files": [
+        {
+            "date": 1717090403624,
+            "name": "/Users/akashsingh/.tabby-client/agent/logs/20240530.0.log",
+            "hash": "12c385dd4b595224be0328f755ce8188"
+        }
+    ]
+}
