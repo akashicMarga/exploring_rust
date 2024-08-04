@@ -1,0 +1,11 @@
+[package]
+name = "vector_db_exps"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0.204", features = ["derive"] }
+tokio = { version = "1.39.2", features = ["macros", "rt-multi-thread"] }
+sqlite-vec = { version = "0.0.1-alpha.7" }
+rusqlite = { version = "0.31.0", features = ["bundled"] }
+zerocopy = "0.7.33"

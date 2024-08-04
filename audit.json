@@ -11,6 +11,21 @@
             "date": 1717090403624,
             "name": "/Users/akashsingh/.tabby-client/agent/logs/20240530.0.log",
             "hash": "12c385dd4b595224be0328f755ce8188"
+        },
+        {
+            "date": 1718180941690,
+            "name": "/Users/akashsingh/.tabby-client/agent/logs/20240612.0.log",
+            "hash": "019b655e096469b70fe2152632d17ebc"
+        },
+        {
+            "date": 1719304081157,
+            "name": "/Users/akashsingh/.tabby-client/agent/logs/20240625.0.log",
+            "hash": "3faadfc67f9a1ed06a393e7418d49e51"
+        },
+        {
+            "date": 1719381830783,
+            "name": "/Users/akashsingh/.tabby-client/agent/logs/20240626.0.log",
+            "hash": "aeaee9f7c36c2b1242a6633527338c33"
         }
     ]
 }
