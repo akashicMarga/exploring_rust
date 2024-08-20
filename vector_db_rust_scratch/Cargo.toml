@@ -1,0 +1,12 @@
+[package]
+name = "vector_db_rust_scratch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+rayon = "1.7.0"
+itertools = "0.13.0"
+clap = "4.5.15"
+json = "0.12"
+dashmap = "6.0.1"
